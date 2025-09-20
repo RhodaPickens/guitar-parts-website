@@ -1,0 +1,81 @@
+body {
+    background-color: #eee0b1;
+}
+
+header {
+    background: url("../images/guitar-banner.png");
+    /** OpenAI. (2025, August 20). Acoustic guitar on dark background. [AI generated image]. Created using GPT-5 and DALLE. **/
+    height: 300px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+#citation {
+    font-size: smaller;
+    color: gray;
+    font-style: italic;
+}
+
+.form-header {
+    padding-top: 30px;
+}
+
+.btn-brown {
+    background-color: #E5953F;
+    color: black;
+    border-color: #111111;
+}
+
+.btn-yellow {
+    background-color: #FFD700;
+    color: black;
+    border-color: #111111;
+}
+
+.btn-brown:hover {
+    background-color: #111111;
+    color: white;
+    border-color: black;
+}
+
+.btn-yellow:hover {
+    background-color: #111111;
+    color: white;
+    border-color: black;
+}
+
+table, tr, th, td {
+    border: 1px solid black;
+}
+
+.return-link {
+    color: #482E0A;
+}
+
+h4 {
+    font-style: italic;
+}
+
+.nav-link {
+    color: #111111;
+    font-size: large;
+    font-weight: 600;
+    background: #E5953F;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+    background: #111111;
+}
+
+.navbar {
+    padding-top: 15px;
+}
+
+/* About page styles */
+.return-button {
+    padding-top: 15px;
+}
