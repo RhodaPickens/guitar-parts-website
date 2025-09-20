@@ -1,19 +1,20 @@
-### Guitar Parts Website   
+# Guitar Parts Website   
 An inventory of guitar parts and guitars that can be updated and edited online
 
 ## Tech Stack
-Java
-Spring Boot
-Maven
+- Java
+- Spring Boot
+- Maven
 
 ## Screenshot of Front Page
-screenshots/guitar-parts-screenshot.png
+[![Alt Text](screenshots/guitar-parts-screenshot.png)](screenshots/guitar-parts-screenshot.png)
+
 
 ## How to Run
-Download zip file   
-Open in IDE   
-Run 'mvn clean install' in terminal   
-Run application   
-Go to localhost:8080 to view
+1. Download zip file   
+2. Open in IDE   
+3. Run 'mvn clean install' inside project folder in terminal   
+4. Run application   
+5. Go to localhost:8080 to view
 
 
