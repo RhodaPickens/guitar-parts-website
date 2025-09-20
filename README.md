@@ -5,6 +5,8 @@ An inventory of guitar parts and guitars that can be updated and edited online
 - Java
 - Spring Boot
 - Maven
+- HTML
+- CSS
 
 ## Screenshot of Front Page
 [![Alt Text](screenshots/guitar-parts-screenshot.png)](screenshots/guitar-parts-screenshot.png)
